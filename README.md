@@ -2,7 +2,7 @@
 
 |  Mini Major Project  |                        Live Link                     |       Github Link       |
 |---------------------:|------------------------------------------------------|-------------------------|
-|      Quiz App        |  [ Live Link ](https://quiz-app-xi-beryl.vercel.app/)|             |
+|  Quiz App            |  [ Live Link ](https://quiz-app-xi-beryl.vercel.app/)|             |
 |                      |                                                      |
 |                      |                                                      |
 
