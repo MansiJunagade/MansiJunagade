@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @MansiJunagade
 
-|  Mini Major Project  |                        Live Link                     |       Github Link       |
-|---------------------:|------------------------------------------------------|-------------------------|
-|  Quiz App            |  [ Live Link ](https://quiz-app-xi-beryl.vercel.app/)|             |
-|                      |                                                      |
-|                      |                                                      |
+|  Mini Major Project  |                          Live Link                     |       Github Link       |
+|---------------------:|--------------------------------------------------------|-------------------------|
+|  Quiz App            |  [ Live Link ](https://quiz-app-xi-beryl.vercel.app/)  |                         |
+|   Amazon Clone       |  [Live Link] (https://amazon-clone-rosy-mu.vercel.app/)|                         |
+|                      |                                                        |                         |
 
 
   
